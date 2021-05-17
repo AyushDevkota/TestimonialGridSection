@@ -46,7 +46,7 @@ img {
     width: 3em;
     margin-right: 1em;
 }
-.container {
+section {
     width: 80%;
     display: grid;
     grid-template-rows: repeat(2, 1fr);
